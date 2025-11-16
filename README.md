@@ -73,6 +73,6 @@ All screenshots (command outputs + script outputs) are inside:
 ---
 
 ## ✔ Completed By:
-**<Your Name>**  
+**Md Shahjad**  
 Course: Linux Shell Scripting  
-Submission Date: <Date>
+Submission Date: 16/11/2025
